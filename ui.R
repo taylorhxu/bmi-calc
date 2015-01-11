@@ -14,7 +14,7 @@ shinyUI(navbarPage("BMI",
                         tags$li("obese (BMI >= 30.0)")
                     ),
                     
-                    p("This BMI Calculator is based on US weight and height metrics. Once you enter your weight and height, and click the Submit button, your BMI will be calculated and displayed on the right."),
+                    p("This BMI Calculator is based on US weight and height metrics, and applies to adults only. Once you enter your weight and height, and click the Submit button, your BMI will be calculated and displayed on the right."),
                     
                     p("You can also click on the Adult Obesity Prevalence In US tab at the top to see the latest US obesity prevalence information.")                
                 ),
